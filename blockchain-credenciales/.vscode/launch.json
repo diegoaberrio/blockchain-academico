@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BlockchainCredencialesApplication<blockchain-credenciales>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.certificadosglobales.blockchain_credenciales.BlockchainCredencialesApplication",
+            "projectName": "blockchain-credenciales",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
